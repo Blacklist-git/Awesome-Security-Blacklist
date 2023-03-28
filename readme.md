@@ -108,10 +108,30 @@
 
 * [사이버 보안 인식](https://tryhackme.com/module/cyber-security-awareness)
 
+### 참고 문서
+
+* [RvaptHosting_Request_for_Proposal](./pdf/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%88%EC%8B%9C%20%EC%9E%90%EB%A3%8C/RvaptHosting_Request_for_Proposal_%EC%B0%B8%EA%B3%A0%EC%9A%A9.pdf)
+
 ## 침투 테스트
 
 * [침투 테스트 소개](https://tryhackme.com/module/introduction-to-offensive-pentesting)
 * [침투 테스터를 위한 스크립팅](https://tryhackme.com/module/scripting-for-pentesters)
+
+### 침투 테스트 보고서 예시
+
+- - -
+
+한국어
+
+* [Team1 Final Report - KO](./pdf/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%88%EC%8B%9C%20%EC%9E%90%EB%A3%8C/Team1_Final_Report_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf)
+* [Team2 Final Report - KO](./pdf/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%88%EC%8B%9C%20%EC%9E%90%EB%A3%8C/Team2_RVAPTHosting_Final_Report_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf)
+* [Team3 Final Report - KO](./pdf/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%88%EC%8B%9C%20%EC%9E%90%EB%A3%8C/Team3_Final_Report_%ED%95%9C%EA%B5%AD%EC%96%B4.pdf)
+
+영문
+
+* [Team1 Final Report - EN](./pdf/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%88%EC%8B%9C%20%EC%9E%90%EB%A3%8C/Team1_Final_Report_%EC%98%81%EC%96%B4.pdf)
+* [Team2 Final Report - EN](./pdf/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%88%EC%8B%9C%20%EC%9E%90%EB%A3%8C/Team2_RVAPTHosting_Final_Report_%EC%98%81%EC%96%B4.pdf)
+* [Team3 Final Report - EN](./pdf/%EB%B3%B4%EA%B3%A0%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%88%EC%8B%9C%20%EC%9E%90%EB%A3%8C/Team3_Final_Report_%EC%98%81%EC%96%B4.pdf)
 
 ## 도구
 
