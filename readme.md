@@ -1,6 +1,6 @@
 # 정보보안 정리
 
-* 이 글은 Choi Security님께서 작성한 '[시나리오 기반의 모의침투테스트 대회를 진행하며](./pdf/%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%AA%A8%EC%9D%98%EC%B9%A8%ED%88%AC%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8C%80%ED%9A%8C%EB%A5%BC%20%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0(Choi%20Security).pdf)'에 대한 내용을 포함하고 있고 TryHackMe의 강의 자료를 다수 포함하고 있습니다.
+* 이 글은 Choi Security님께서 작성한 '[시나리오 기반의 모의침투테스트 대회를 진행하며](https://blog.sunggwanchoi.com/sinario-gibanyi-moyicimtuteseuteu-daehoereul-jin/)'에 대한 내용을 포함하고 있고 TryHackMe의 강의 자료를 다수 포함하고 있습니다.
 
 * [정보보안 기초 개념 바로잡기](https://tryhackme.com/module/introduction-to-cyber-security)
 
